@@ -62,7 +62,8 @@ Bu proje tamamen istemci taraflı (HTML, CSS ve JavaScript) olarak çalışır. 
 ### Yöntem: Doğrudan Tarayıcıda Açma
 1. Projeyi bilgisayarına indir veya GitHub üzerinden klonla:
    ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/RainbowChic.git](https://github.com/KULLANICI_ADINIZ/RainbowChic.git)
+   git clone [https://github.com/aysgllngn/RainbowChic.git]git clone(https://github.com/aysgllngn/RainbowChic.git)
+cd RainbowChic)
    cd RainbowChic
 ## 📂 Dosya Yapısı
 
